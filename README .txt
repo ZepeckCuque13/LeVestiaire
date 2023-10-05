@@ -1,0 +1,1 @@
+README LeVestiaireEntité : - MonVestiaire : propriétés : Description Type String, contrainte Notnull	Association à Maillot (OneToMany)-Maillot :  propriétés : Description Type String, contrainte Notnull
